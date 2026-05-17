@@ -56,7 +56,8 @@ def main() -> None:
         ("web_search",          "web_search.py"),
         ("web_fetch",           "web_fetch.py"),
         ("firebase_metering",   "firebase_metering.py"),
-        ("jasatirta_metering",  "jasatirta_metering.py"),   # ← tool baru
+        ("jasatirta_metering",  "jasatirta_metering.py"),
+        ("reminder",  "reminder.py"),
     ]
 
     pipe_script = os.path.join(current_dir, "mcp_pipe.py")
