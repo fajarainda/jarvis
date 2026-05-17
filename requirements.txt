@@ -1,0 +1,13 @@
+# requirements.txt
+# Core MCP & Web Search
+tavily-python>=0.3.0
+fastmcp>=0.1.0
+websockets>=12.0
+
+# Utility
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional (tidak lagi dipakai tapi tetap disimpan untuk kompatibilitas)
+# zhipuai>=1.0.0
+# beautifulsoup4>=4.12.3
