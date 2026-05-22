@@ -1,0 +1,4 @@
+{
+  "MCP_ENDPOINT": "wss://api.xiaozhi.me/mcp/?token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjkyMzQxOCwiYWdlbnRJZCI6MTc5NzYyOSwiZW5kcG9pbnRJZCI6ImFnZW50XzE3OTc2MjkiLCJwdXJwb3NlIjoibWNwLWVuZHBvaW50IiwiaWF0IjoxNzc4MjgwNzcyLCJleHAiOjE4MDk4MzgzNzJ9.JClFap72gZABte6kpr4jXfTknDULan9nElXoCICg4bCBQFNdfr58x7PyZzzQoORnnGMQW9Cr6eScFvBjwYTF5w",
+  "tavily_api_key": "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"
+}
